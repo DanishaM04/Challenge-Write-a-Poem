@@ -1,0 +1,25 @@
+body{
+    font-family: 'Dancing Script', cursive;
+}
+h1 {
+    font-size: 60px;
+}
+
+#Poem1, #Poem2 {
+    width: 30%;
+    float:left;
+    margin-left: 1%;
+    padding: 90px;
+}
+#Poem1 {
+    font-size: 40px;
+     margin-left: 3%;
+    margin-top: 0.5%;
+}
+
+#Poem2 {
+     font-size: 30px;
+     margin-left: 3.5%;
+}
+
+
